@@ -26,3 +26,9 @@ Apresentar evidências de pesquisa.
 ##-  Finalidade
 
 Este projeto tem caráter acadêmico, sendo desenvolvido com o objetivo de aplicar na prática conceitos de Governança e Segurança da Informação, simulando desafios reais enfrentados por organizações que precisam proteger seus dados e seus usuários.
+
+```markdown
+# Título
+- Item
+- Outro item
+```
