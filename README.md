@@ -8,11 +8,6 @@ Este projeto foi desenvolvido como parte da disciplina **Projeto Integrado III (
 
 A proposta simula o cenário de uma organização de grande porte que precisa proteger seus dados, sistemas e usuários por meio de políticas claras de segurança.
 
----
-
-##  Disciplina
-
-**Projeto Integrado III – 3º semestre**
 
 ---
 
