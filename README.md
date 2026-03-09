@@ -37,6 +37,6 @@ A proposta simula o cenário de uma organização de grande porte que precisa pr
 - Elaborar um **plano de implementação da PSI**, incluindo ações de adoção, conscientização e treinamento.
 
 - Apresentar **evidências de pesquisa** utilizadas na elaboração da política.
-- 
+ 
 
 
