@@ -1,42 +1,40 @@
-# Projeto_Integrado_III
+# Projeto de Política de Segurança da Informação (PSI)
 
-Projeto Integrado III – Política de Segurança da Informação (PSI)
-##-  Sobre o Projeto
+---
 
-Este projeto foi desenvolvido como parte da disciplina Projeto Integrado III (3º semestre) e tem como objetivo a criação de uma Política de Segurança da Informação (PSI) para uma empresa fictícia.
+## 📌 Sobre o Projeto
 
-A proposta simula o cenário de uma organização de grande porte que precisa proteger seus dados, sistemas e usuários por meio de políticas claras de segurança para uma empresa de (definir o porte da empresa com o grupo)
+Este projeto foi desenvolvido como parte da disciplina **Projeto Integrado III (3º semestre)** e tem como objetivo a criação de uma **Política de Segurança da Informação (PSI)** para uma empresa fictícia.
 
-##-  Obejetivos
+A proposta simula o cenário de uma organização de grande porte que precisa proteger seus dados, sistemas e usuários por meio de políticas claras de segurança.
 
-Analisar os principais domínios da Segurança da Informação aplicáveis a uma empresa.
+---
 
-Desenvolver uma Política de Segurança da Informação (PSI) completa e estruturada.
+## 🎓 Disciplina
 
-Definir princípios, regras e responsabilidades para cada domínio de segurança.
+**Projeto Integrado III – 3º semestre**
 
-Incluir diretrizes de controle de acesso, uso aceitável, gestão de incidentes, segurança de rede, dados e segurança física.
+---
 
-Considerar aspectos de conformidade regulatória, especialmente relacionados à LGPD e boas práticas de segurança.
+## 🧩 Tema do Projeto
 
-Elaborar um plano de implementação da PSI, com ações de adoção, conscientização e treinamento.
+**A ser definido pelo grupo**
 
-Apresentar evidências de pesquisa.
+---
 
-##-  Finalidade
+## 🎯 Objetivos do Projeto
 
-Este projeto tem caráter acadêmico, sendo desenvolvido com o objetivo de aplicar na prática conceitos de Governança e Segurança da Informação, simulando desafios reais enfrentados por organizações que precisam proteger seus dados e seus usuários.
+- Analisar os principais domínios da **Segurança da Informação** aplicáveis a uma empresa.
 
-```markdown
-# Título
-- Item
-- Outro item
-```
+- Desenvolver uma **Política de Segurança da Informação (PSI)** completa e estruturada.
 
-## Sumário
+- Definir **princípios, regras e responsabilidades** para cada domínio de segurança.
 
-- [Sobre](#sobre-o-projeto)
-- [Objetivos](#objetivos)
-- [Estrutura](#estrutura-do-projeto)
-- [Referências](#referências)
+- Incluir diretrizes de **controle de acesso, uso aceitável, gestão de incidentes, segurança de rede, segurança de dados e segurança física**.
+
+- Considerar aspectos de **conformidade regulatória**, especialmente relacionados à **LGPD** e boas práticas de segurança.
+
+- Elaborar um **plano de implementação da PSI**, incluindo ações de adoção, conscientização e treinamento.
+
+- Apresentar **evidências de pesquisa** utilizadas na elaboração da política.
 - 
