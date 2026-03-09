@@ -13,7 +13,7 @@ A proposta simula o cenário de uma organização de grande porte que precisa pr
 
 ##  Tema do Projeto
 
-**A ser definido pelo grupo**
+**A ser definido pelo grupo***
 
 ---
 
