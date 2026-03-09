@@ -38,3 +38,12 @@ A proposta simula o cenário de uma organização de grande porte que precisa pr
 
 - Apresentar **evidências de pesquisa** utilizadas na elaboração da política.
 - 
+
+```
+projeto-psi/
+│
+├── README.md
+├── docs/
+├── pesquisa/
+└── relatorio/
+```
