@@ -27,7 +27,7 @@ A proposta simula o cenário de uma organização de grande porte que precisa pr
 
 - Incluir diretrizes de **controle de acesso, uso aceitável, gestão de incidentes, segurança de rede, segurança de dados e segurança física**.
 
-- Considerar aspectos de **conformidade regulatória**, especialmente relacionados à **LGPD** e boas práticas de segurança.
+- Considerar aspectos de **conformidade regulatória**, especialmente relacionados à **LGPD e PCI DSS** e boas práticas de segurança.
 
 - Elaborar um **plano de implementação da PSI**, incluindo ações de adoção, conscientização e treinamento.
 
