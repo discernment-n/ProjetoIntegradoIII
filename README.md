@@ -1,8 +1,8 @@
-# Projeto de Política de Segurança da Informação (PSI)
+# **Projeto de Política de Segurança da Informação** (PSI)
 
 ---
 
-##  Sobre o Projeto
+##  **Sobre o Projeto**
 
 Este projeto foi desenvolvido como parte da disciplina **Projeto Integrado III (3º semestre)** e tem como objetivo a criação de uma **Política de Segurança da Informação (PSI)** para uma empresa fictícia.
 
@@ -11,13 +11,13 @@ A proposta simula o cenário de uma organização de grande porte que precisa pr
 
 ---
 
-##  Tema do Projeto
+##  **Tema do Projeto**
 
-**A ser definido pelo grupo***
+Política de Segurança da Informação para Proteção de Dados Financeiros em um Banco Digital
 
 ---
 
-##  Objetivos do Projeto
+##  **Objetivos do Projeto**
 
 - Analisar os principais domínios da **Segurança da Informação** aplicáveis a uma empresa.
 
